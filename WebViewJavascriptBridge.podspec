@@ -17,3 +17,4 @@ Pod::Spec.new do |s|
   s.frameworks       = 'WebKit'
   s.ios.frameworks   = 'UIKit', 'WebKit'
 end
+https://github.com/raadm6463/WebViewJavascriptBridge.git
